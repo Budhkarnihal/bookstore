@@ -1,0 +1,27 @@
+body {
+  backgrou
+}
+
+h2 {
+  color: #464f41;
+}
+
+body {
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+input[type=submit] {
+  padding: 5px 15px;
+  background: #99d3f6;
+  border: 0 none;
+  cursor: pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
